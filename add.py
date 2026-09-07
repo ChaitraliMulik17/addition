@@ -1,10 +1,3 @@
-
-
-# add.py
-
-a = int(input("Enter first number: "))
-b = int(input("Enter second number: "))
-
-result = a + b
-
-print("Sum =", result)
+a=10
+b=20
+print("addition",a+b)
